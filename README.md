@@ -43,6 +43,14 @@ $ npm run test:cov
 - **Error Handling**: Implemented error handling for the application.
 - **Testing**: Added unit tests for the service and controller.
 
+## API Documentation
+
+The API documentation is available at the following endpoint:
+
+- **Swagger UI**: [http://localhost:<PORT>/api/docs](http://localhost:<PORT>/api/docs)
+
+Replace `<PORT>` with the port number specified in your environment variables.
+
 ## Resources
 
 Check out a few resources that may come in handy when working with NestJS:
