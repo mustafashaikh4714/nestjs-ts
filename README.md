@@ -47,9 +47,7 @@ $ npm run test:cov
 
 The API documentation is available at the following endpoint:
 
-- **Swagger UI**: [http://localhost:<PORT>/api/docs](http://localhost:<PORT>/api/docs)
-
-Replace `<PORT>` with the port number specified in your environment variables.
+- **Swagger UI**: The API documentation is available at `/api/docs`. By default, you can access it at [http://localhost:3000/api/docs](http://localhost:3000/api/docs) if running locally. Make sure to update your `.env` file or port configuration if necessary.
 
 ## Resources
 
